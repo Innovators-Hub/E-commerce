@@ -19,6 +19,8 @@ Clone this repo or download the code as zip file and extract it.
  
  If you click on the cart icon on the navbar, it should lead you to the cart system but it displays an error
 ![picture alt](https://pic8.co/sh/yDfUBN.png)
+![Screenshot (293)](https://user-images.githubusercontent.com/64654648/120106970-b6170700-c17c-11eb-85bc-52629d699cc1.png)
+
 
 The issue is in the file models.py. Here's a code snippet of class where I feel the problem could be:
 ``` 
