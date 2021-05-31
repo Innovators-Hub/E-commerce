@@ -18,7 +18,6 @@ Clone this repo or download the code as zip file and extract it.
  ![picture alt](https://pic8.co/sh/puoHti.png)
  
  If you click on the cart icon on the navbar, it should lead you to the cart system but it displays an error
-![picture alt](https://pic8.co/sh/yDfUBN.png)
 ![Screenshot (293)](https://user-images.githubusercontent.com/64654648/120106970-b6170700-c17c-11eb-85bc-52629d699cc1.png)
 
 
